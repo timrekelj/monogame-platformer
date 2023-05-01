@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0G5SOHN1qS/gZX3a6IQbCAh9mTfgt7QwmMJG78c4GpBvc0l0tvHKLfNO9u7h8qkVQV0laGX8D/upOHT1tRy/wg==",
+  "success": true,
+  "projectFilePath": "/home/timrekelj/Documents/personal/gamedev/Platformer/Platformer.csproj",
+  "expectedPackageFiles": [
+    "/home/timrekelj/.nuget/packages/monogame.content.builder.task/3.8.1.303/monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "/home/timrekelj/.nuget/packages/monogame.framework.desktopgl/3.8.1.303/monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}

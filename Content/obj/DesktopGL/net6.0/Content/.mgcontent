@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/timrekelj/Documents/personal/gamedev/Platformer/Content/Character Idle 48x48.png</File>
+    <File>/home/timrekelj/Documents/personal/gamedev/Platformer/Content/PlayerWalk 48x48.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>idle.png</File>
+    <File>walk.png</File>
+  </DestFiles>
+</SourceFileCollection>
